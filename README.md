@@ -1,5 +1,7 @@
 # asdf-kubectl
 
+[![Build Status](https://dev.azure.com/beardix/asdf/_apis/build/status/beardix.asdf-kubectl?branchName=master)](https://dev.azure.com/beardix/asdf/_build/latest?definitionId=18&branchName=master)
+
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
 ## Install
